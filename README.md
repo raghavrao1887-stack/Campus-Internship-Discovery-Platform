@@ -13,7 +13,8 @@ A product case study exploring how IIT students discover internships, track appl
 
 ## 🔗 Prototype
 
-**[View Interactive Figma Prototype](YOUR_FIGMA_LINK_HERE)**
+**[View Interactive Figma Prototype](https://www.figma.com/design/oB6sp43j1rN7lZUvHh9JLd/Campus-Internship-Discovery-Platform---MVP-Screens?node-id=2-7&t=3Q6vnibzCUZZTqBZ-1
+)**
 
 ---
 
